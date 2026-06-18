@@ -1,6 +1,6 @@
 # verdict
 
-**A small, model-agnostic LLM evaluation toolkit — with a judge bias audit you can actually trust.**
+**A small, model-agnostic LLM evaluation toolkit with a judge bias audit you can actually trust.**
 
 Most eval setups score outputs with an LLM "judge" and never check whether that judge is
 **biased**. Research is clear that LLM judges systematically prefer the **first-shown** answer
