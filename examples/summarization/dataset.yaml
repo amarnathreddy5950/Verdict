@@ -1,0 +1,36 @@
+name: summarization-demo
+cases:
+  - id: photosynthesis
+    input: >
+      Photosynthesis is the process by which green plants convert sunlight into
+      chemical energy. Using chlorophyll, they transform carbon dioxide and water
+      into glucose and oxygen. This process sustains nearly all life on Earth.
+    reference: Plants turn sunlight, CO2, and water into glucose and oxygen.
+
+  - id: internet
+    input: >
+      The internet is a global network of interconnected computers that communicate
+      using standardized protocols. It enables services like the web, email, and
+      streaming. It originated from research projects in the late twentieth century.
+    reference: The internet is a global network of computers using shared protocols.
+
+  - id: vaccines
+    input: >
+      Vaccines train the immune system to recognize pathogens without causing disease.
+      They typically contain weakened or inactivated parts of an organism. Widespread
+      vaccination has eradicated or controlled many infectious diseases.
+    reference: Vaccines teach the immune system to fight pathogens safely.
+
+  - id: inflation
+    input: >
+      Inflation is the rate at which the general level of prices for goods and services
+      rises, eroding purchasing power. Central banks try to limit inflation to keep an
+      economy running smoothly, often by adjusting interest rates.
+    reference: Inflation is rising prices that reduce purchasing power.
+
+  - id: blackholes
+    input: >
+      A black hole is a region of spacetime where gravity is so strong that nothing,
+      not even light, can escape. They form when massive stars collapse at the end of
+      their life cycles. Their boundary is called the event horizon.
+    reference: A black hole is a region whose gravity lets nothing escape.
