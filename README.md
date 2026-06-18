@@ -141,13 +141,13 @@ verdict run config.yaml --baseline baseline.json --threshold 0.05
 
 ## Documentation
 
-- **[docs/WALKTHROUGH.md](docs/WALKTHROUGH.md)** — step-by-step example with diagrams, a
+- **[docs/Walkthrough.md](docs/Walkthrough.md)** — step-by-step example with diagrams, a
   flowchart, and real command output. Start here.
-- **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** — the mental model, data-flow diagrams, and
+- **[docs/Architecture.md](docs/Architecture.md)** — the mental model, data-flow diagrams, and
   every component explained.
-- **[docs/BIASES.md](docs/BIASES.md)** — the full judge-bias taxonomy, what verdict measures,
+- **[docs/Biases.md](docs/Biases.md)** — the full judge-bias taxonomy, what verdict measures,
   which mitigations to use when, and references.
-- **[examples/summarization/REPORT.md](examples/summarization/REPORT.md)** — a generated report
+- **[examples/summarization/Report.md](examples/summarization/Report.md)** — a generated report
   comparing two summarizers and a biased vs. fair judge.
 
 ## Development
