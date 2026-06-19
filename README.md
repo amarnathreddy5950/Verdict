@@ -157,8 +157,3 @@ pip install -e ".[dev]"
 ruff check . && mypy && pytest --cov=verdict
 ```
 
-## License
-
-MIT
-
-[litellm]: https://github.com/BerriAI/litellm
